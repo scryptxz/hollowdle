@@ -5,11 +5,11 @@ export default function Credit() {
     <p className="absolute top-3 left-3 text-white">
       Developed with &#9829; by{" "}
       <Link
-        href={"https://github.com/ScryptRG"}
+        href={"https://github.com/scryptxz"}
         target="_blank"
         className="text-blue-200 hover:underline"
       >
-        ScryptRG
+        scryptxz
       </Link>{" "}
       &copy; 2024
     </p>

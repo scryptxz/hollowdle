@@ -5,7 +5,7 @@ import Link from "next/link";
 export default function Kofi() {
   return (
     <Link
-      href={"https://ko-fi.com/scryptrg"}
+      href={"https://ko-fi.com/scryptxz"}
       target="_blank"
       className="bg-[#13C3FF] fixed bottom-5 right-5 pr-4 pl-2 rounded-full opacity-50 hover:opacity-100 duration-200"
     >
